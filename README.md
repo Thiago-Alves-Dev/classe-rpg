@@ -16,10 +16,6 @@ Este arquivo contém uma lista de nomes de inimigos comuns em jogos de RPG.
 
 Este arquivo contém a implementação da classe `Player`, que representa um jogador no jogo. Contém também a implementação da classe `Enemy`, que herda a classe mãe player para reciclar algumas funções que representa um inimigo no jogo.
 
-### enemy.py
-
-Este arquivo contém a implementação da classe `Enemy`, que representa um inimigo no jogo.
-
 ### potions.py
 
 Este arquivo contém a implementação das classes `Potions` e `Cure`, que representam poções de cura no jogo.
